@@ -21,31 +21,10 @@
 
 window.FAIRS = [
   {
-    date:  "2026-10-24",
-    name:  "Autumn Craft Market",
-    where: "Market Hall, Example Town",
-    time:  "10am – 4pm",
-    stall: "Stall 3"
-  },
-  {
-    date:  "2026-11-14",
-    name:  "Harbourside Winter Market",
-    where: "Market Square, Example Town",
-    time:  "10am – 4pm",
-    stall: "Stall 12"
-  },
-  {
-    date:  "2026-11-28",
-    name:  "Makers' Yuletide Fair",
-    where: "The Corn Exchange, Example Town",
-    time:  "10am – 5pm",
-    stall: "Stall 34"
-  },
-  {
-    date:  "2026-12-12",
-    name:  "Castle Christmas Market",
-    where: "Castle Courtyard, Example Town",
-    time:  "10am – 6pm",
-    stall: ""
+    date:  "TBC",
+    name:  "Kings School Chester christmas fair",
+    where: "Kings school chester",
+    time:  "TBC",
+    stall: "TBC"
   },
 ];
